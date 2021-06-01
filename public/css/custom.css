@@ -1,0 +1,8 @@
+/** Your theme modifications here **/
+#response{
+    transition: all, 4s, ease-in;
+    font-family: inherit;
+    font-weight: bold;
+    font-size: 2em;   
+    color: blue;
+}
