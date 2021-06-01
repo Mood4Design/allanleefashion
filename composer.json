@@ -1,7 +1,0 @@
-{
-    "require": {
-        "dompdf/dompdf":"0.6.1",
-        "PHPMailer/PHPMailer":">=1.0",
-        "paypal/rest-api-sdk-php": "dev-master"
-    }
-}
